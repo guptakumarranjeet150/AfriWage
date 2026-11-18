@@ -8,7 +8,7 @@
     "generate": "drizzle-kit generate",
     "migrate": "drizzle-kit migrate",
     "type-check": "tsc --noEmit",
-    "build": "node init && tsc"
+    "build": "tsc"
   },
   "dependencies": {
     "drizzle-orm": "^0.33.0",
